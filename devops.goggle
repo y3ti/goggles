@@ -1,0 +1,25 @@
+! name: DevOps
+! description: Boost content releated to the DevOps
+! public: true
+! author: Kamil Grabowski
+! avatar: #b4ff05
+
+! AWS
+$boost=3,site=docs.aws.amazon.com
+$boost=2,site=iam.cloudonaut.io
+
+! Docker
+$boost=3,site=docs.docker.com
+
+! GitHub
+$boost=3,site=docs.github.com
+
+! Jenkins
+$boost=3,site=www.jenkins.io
+
+! Python
+$boost=3,site=docs.python.org
+
+! Terraform
+$boost=3,site=terraform.io
+$boost=2,site=registry.terraform.io
